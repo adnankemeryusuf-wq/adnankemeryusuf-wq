@@ -1,27 +1,23 @@
-# Dadar-Land-System
-"Galmee Abbaa Dhimmaa" (Customer Registration System)
+# Adnan Kemer Yusuf
 
-Pirojeektiin kun namoota dhimma lafaa qaban galmeessuuf kan gargaaru dha.
+Full-Stack Web Developer | PHP | MySQL
 
-## 🚀 Akkaataa Itti Fayyadaman (How to Run)
-Koodii kana Desktop kee irratti hojjachiisuuf tarkaanfiiwwan kana hordofi:
+## My Live Projects
 
-### 1. Koodii Buuffadhu (Clone)
-Terminal kee bane koodii kana barreessi:
-git clone https://github.com/adnankemeryusuf-wq/Dadar-Land-System.git
+### AK All Knowledge
 
-### 2. Software-ni Barbaachisoo (Requirements)
-Pirojeektiin kun Python fi Streamlit barbaada. Library-wwan hunda fe'uuf:
-pip install -r requirements.txt
+An educational platform for discovering books,
+exploring knowledge and supporting learning.
 
-### 3. Pirojeektii Bani
-Pirojeektii kana hojjachiisuuf:
-streamlit run app.py
+🌐 Live Website:
+https://akallknowledge.wuaze.com/
 
-## ✨ Akkaataa Inni Hojjetu (Features)
-* Galmee Abbaa dhimmaa haaraa galmeessuu.
-* Ragaalee galmeeffaman ilaaluu fi sakatta'uu.
-* Iccitii ragaalee eeguu.
+### Technologies
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
 
-## 👨‍💻 Namoota Hojjetan
-* **Adnan Kemer yusuf**
+## GitHub
+https://github.com/adnankemeryusuf-wq
