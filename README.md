@@ -1,23 +1,54 @@
-# Adnan Kemer Yusuf
+ADNAN KEMER YUSUF
 
 Full-Stack Web Developer | PHP | MySQL
 
-## My Live Projects
+About Me
 
-### AK All Knowledge
+I am an independent web developer passionate about building database-driven web applications using PHP, MySQL, HTML, CSS, and JavaScript.
 
-An educational platform for discovering books,
-exploring knowledge and supporting learning.
+My Live Projects
 
-🌐 Live Website:
-https://akallknowledge.wuaze.com/
+1. DHSACA – Deder High School Alumni Charitable Association
 
-### Technologies
+A web-based alumni management platform designed to connect alumni, manage memberships, and support community activities.
+
+🌐 Live Website: https://dhsaca.freepage.cc
+
+Technologies:
+
+- PHP
+- MySQL
+- HTML5
+- CSS3
+- JavaScript
+
+2. AK All Knowledge
+
+An educational platform for discovering books, exploring knowledge, and supporting learning.
+
+🌐 Live Website: https://akallknowledge.wuaze.com/
+
+Technologies:
+
+- PHP
+- MySQL
 - HTML
 - CSS
 - JavaScript
-- PHP
-- MySQL
 
-## GitHub
-https://github.com/adnankemeryusuf-wq
+Technical Skills
+
+- HTML5 & CSS3
+- JavaScript
+- PHP Native
+- MySQL
+- Git & GitHub
+- Basic Laravel
+
+Connect With Me
+
+- GitHub: https://github.com/adnankemeryusuf-wq
+- Portfolio: https://akallknowledge.wuaze.com/
+- Email: adnankemeryusuf@gmail.com
+
+Location: Addis Ababa, Ethiopia
