@@ -1,0 +1,10 @@
+streamlit
+pandas
+Pillow
+openpyxl
+requests
+psycopg2-binary
+fpdf
+plotly
+xlsxwriter
+python-pptx

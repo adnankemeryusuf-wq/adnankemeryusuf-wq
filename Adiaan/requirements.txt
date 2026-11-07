@@ -1,0 +1,12 @@
+streamlit
+pandas
+Pillow
+fpdf
+ethiopian-date
+openpyxl
+requests
+psycopg2-binary
+plotly
+xlsxwriter
+python-pptx
+qrcode
